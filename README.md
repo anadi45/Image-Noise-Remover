@@ -11,7 +11,7 @@
 <p>Demo</p>
 
 <h4>Demo - 1</h4>
-![](demo1.png)
+![](https://github.com/anadi45/ExpenseManager/blob/master/demo1.png)
 
 <h4>Demo - 2</h4>
-![](demo2.png)
+![](https://github.com/anadi45/ExpenseManager/blob/master/demo2.png)
