@@ -11,7 +11,7 @@
 <p>Demo</p>
 
 <h4>Demo - 1</h4>
-![](https://github.com/anadi45/Image-Noise-Remover/blob/master/demo1.png?raw=true)
+![Screenshot](https://github.com/anadi45/Image-Noise-Remover/blob/master/demo1.png?raw=true)
 
 <h4>Demo - 2</h4>
-![](https://github.com/anadi45/Image-Noise-Remover/blob/master/demo2.png?raw=true)
+![Screenshot](https://github.com/anadi45/Image-Noise-Remover/blob/master/demo2.png?raw=true)
